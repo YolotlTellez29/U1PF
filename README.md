@@ -22,17 +22,17 @@ Requisitos
 
 Instalación
 
-    Clona este repositorio:
+Clona este repositorio:
 
         git clone https://github.com/YolotlTellez29/U1PF.git
 
-    Navega al directorio del proyecto:
+Navega al directorio del proyecto:
 
         cd reconocimiento-facial
 
-    Abre el archivo index.html en tu navegador o en mi caso al usar la extensión Live Server en Visual Studio Code, permite ver cambios en tiempo real.
+Abre el archivo index.html en tu navegador o en mi caso al usar la extensión Live Server en Visual Studio Code, permite ver cambios en tiempo real.
 
-Uso
+Uso:
 
     Asegúrate de tener una cámara web conectada y permitir el acceso a la cámara cuando el navegador lo solicite.
 
