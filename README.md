@@ -1,6 +1,7 @@
 Reconocimiento Facial con Face-API.js
 
 Este proyecto utiliza la librería Face-API.js para realizar reconocimiento facial en tiempo real a través de la cámara web. Detecta caras, expresiones faciales, edad, género y puntos de referencia faciales, y muestra los resultados en un canvas superpuesto sobre el video.
+
 Características
 
     Detección de caras: Detecta múltiples caras en tiempo real.
@@ -22,18 +23,14 @@ Requisitos
 Instalación
 
     Clona este repositorio:
-    bash
-    Copy
 
-    git clone https://github.com/tuusuario/reconocimiento-facial.git
+        git clone https://github.com/YolotlTellez29/U1PF.git
 
     Navega al directorio del proyecto:
-    bash
-    Copy
 
-    cd reconocimiento-facial
+        cd reconocimiento-facial
 
-    Abre el archivo index.html en tu navegador.
+    Abre el archivo index.html en tu navegador o en mi caso al usar la extensión Live Server en Visual Studio Code, permite ver cambios en tiempo real.
 
 Uso
 
@@ -76,3 +73,7 @@ Contribuciones
 Licencia
 
 Este proyecto está bajo la licencia MIT. Siéntete libre de usarlo y modificarlo según tus necesidades.
+
+Posdata
+
+    ¡Viva GNU Linux!
